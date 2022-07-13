@@ -2,9 +2,9 @@
 
 ![presentation](https://user-images.githubusercontent.com/89501132/178649674-403efa69-afed-4efd-8ec6-5d3fa333994a.gif)
 
-- 🔭 I’m currently working on Angular13
-- 🌱 I’m currently learning new frameworks
-- 📫 How to reach me naimerith89@gmail.com
+- 🔭 Actualmente estoy trabajando con Angular13
+- 🌱 Estoy aprendiendo nuevos frameworks
+- 📫 Puedes contactarme: naimerith89@gmail.com
 
 
 
