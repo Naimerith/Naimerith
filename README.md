@@ -2,8 +2,8 @@
 
 ![presentation](https://user-images.githubusercontent.com/89501132/178649674-403efa69-afed-4efd-8ec6-5d3fa333994a.gif)
 
-- 🔭 Actualmente estoy trabajando una app para analisis y reportes de ventas.
-- 🌱 Estoy aprendiendo nuevos frameworks
+- 🔭 Actualmente estoy trabajando con Oracle Apex 🌟
+- 🌱 Estoy aprendiendo nuevas tecnologías. 
 - 📫 Puedes contactarme: naimerith89@gmail.com
 
 
